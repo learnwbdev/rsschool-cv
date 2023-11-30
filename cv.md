@@ -1,8 +1,11 @@
+![photo](./assets/photo_small.png "Alexandra Paramonova")
+
 # Alexandra Paramonova
-### Frontend-developer
+### Front-end developer (Junior)
+*Yekaterinburg, Russia* \
+*01/26/1987*
 
 ## Contacts
-Yekaterinburg, Russia
 
 * **Phone**: +7-912-605-3781
 * **E-mail**: alpar.wb@gmail.com
@@ -11,6 +14,8 @@ Yekaterinburg, Russia
 ---
 
 ## About
+
+My goal is to create beautiful and interactive websites. Previously I worked as a software tester. For family reasons, I have not worked for several years. Now I want to be a good front-end developer.
 
 ## Skills
 
@@ -39,7 +44,16 @@ export function convertLabToLch(colorLab) {
 }
 ```
 
+## Work Experience
+**May 2011 - January 2019** \
+Software tester \
+**Aurit**, Yekaterinburg
+
 ## Education
+**2004 - 2010** \
+Applied Mathematics and Physics (master's degree) \
+The Physical Engineering faculty \
+*Ural Federal University, Yekaterinburg*
 
 ## English
 **B2**
