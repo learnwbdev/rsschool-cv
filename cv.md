@@ -2,7 +2,7 @@
 
 # Alexandra Paramonova
 ### Front-end developer (Junior)
-*Yekaterinburg, Russia* \
+*Yekaterinburg, Russia* </br>
 *01/26/1987*
 
 ## Contacts
@@ -45,14 +45,14 @@ export function convertLabToLch(colorLab) {
 ```
 
 ## Work Experience
-**May 2011 - January 2019** \
-Software tester \
+**May 2011 - January 2019** </br>
+Software tester </br>
 **Aurit**, Yekaterinburg
 
 ## Education
-**2004 - 2010** \
-Applied Mathematics and Physics (master's degree) \
-The Physical Engineering faculty \
+**2004 - 2010** </br>
+Applied Mathematics and Physics (master's degree) </br>
+The Physical Engineering faculty </br>
 *Ural Federal University, Yekaterinburg*
 
 ## English
